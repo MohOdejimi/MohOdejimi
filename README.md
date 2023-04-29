@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am full-stack software engineer. My Primary stack includes Javascript and Typescript (React on the front-end and Express on the back-end). I am motivated by the power and utilization of technologies to proffer solution to individual and community problems.
+
+
 <!--
 **MohOdejimi/MohOdejimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
