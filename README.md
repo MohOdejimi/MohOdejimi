@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am full-stack software engineer. My Primary stack includes Javascript and Typescript (React on the front-end and Express on the back-end). I am motivated by the power and utilization of technologies to proffer solution to individual and community problems.
+I am a full-stack software engineer with A deep intErest in AI. My Primary stack includes Javascript and Typescript (React on the front-end and Express on the back-end). I am motivated by the power and utilization of technologies to proffer solution to individual and community problems.
 
 
 <!--
