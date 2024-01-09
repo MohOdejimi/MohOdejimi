@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hello there! 👋
 
-I am a full-stack software engineer with A deep interest in AI. My Primary stack includes Javascript and Typescript (React on the front-end and Express on the back-end). I am motivated by the power and utilization of technologies to proffer solution to individual and community problems.
+I'm a full-stack software engineer with a deep interest in AI. My primary stack revolves around Javascript and Typescript, employing React for the front-end and Express for the back-end. I find motivation in harnessing the power of technology to solve both individual and community challenges.
+
+Currently expanding my skill set by diving into Golang, I'm focused on building scalable systems and backend applications. 
 
 
 <!--
@@ -9,7 +11,7 @@ I am a full-stack software engineer with A deep interest in AI. My Primary stack
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currentlarning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
